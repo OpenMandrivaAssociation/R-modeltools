@@ -3,7 +3,7 @@
 
 Name:             R-%{packname}
 Version:          0.2_19
-Release:          1
+Release:          2
 Summary:          Tools and Classes for Statistical Models
 Group:            Sciences/Mathematics
 License:          GPL-2
