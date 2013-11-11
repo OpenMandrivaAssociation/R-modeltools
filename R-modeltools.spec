@@ -2,13 +2,13 @@
 %global rlibdir  %{_datadir}/R/library
 
 Name:             R-%{packname}
-Version:          0.2_19
-Release:          2
+Version:          0.2.21
+Release:          1
 Summary:          Tools and Classes for Statistical Models
 Group:            Sciences/Mathematics
 License:          GPL-2
 URL:              http://cran.r-project.org/web/packages/%{packname}/index.html
-Source0:          http://cran.r-project.org/src/contrib/%{packname}_0.2-19.tar.gz
+Source0:          http://cran.r-project.org/src/contrib/modeltools_0.2-21.tar.gz
 BuildArch:        noarch
 Requires:         R-core
 Requires:         R-stats R-stats4 
@@ -56,4 +56,5 @@ rm -f %{buildroot}%{rlibdir}/R.css
 + Revision: 775933
 - Import R-modeltools
 - Import R-modeltools
+
 
