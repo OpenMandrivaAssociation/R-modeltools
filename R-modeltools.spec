@@ -7,7 +7,7 @@ Release:          2
 Summary:          Tools and Classes for Statistical Models
 Group:            Sciences/Mathematics
 License:          GPL-2
-URL:              http://cran.r-project.org/web/packages/%{packname}/index.html
+URL:              https://cran.r-project.org/web/packages/%{packname}/index.html
 Source0:          http://cran.r-project.org/src/contrib/modeltools_0.2-21.tar.gz
 BuildArch:        noarch
 Requires:         R-core
